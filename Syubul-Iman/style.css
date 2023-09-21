@@ -8,10 +8,12 @@
     padding: 0;
     box-sizing: border-box;
     font-family: poppins;
+    scroll-behavior: smooth;
 }
 
 body{
     background-color: #F2E8C6;
+    
 }
 
 .navbar{
